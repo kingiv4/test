@@ -17,9 +17,9 @@ python api.py
 ```
 
 # Dependence
-- Python    3.7.9
+- Python    3.7.8
 - PyTorch   1.8.0+cu111
-- Flask     1.1.2
+- Flask     1.1.1
 - CUDA      11.0
 - cuDNN     8.0.4
 - [deepbrain](http://github.com/iitzco/deepbrain)
